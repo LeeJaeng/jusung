@@ -1,1 +1,4 @@
 myvenv
+.idea/
+jusung_mileage/__pycache__/
+db.sqlite3
